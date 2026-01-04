@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔹 I'm currently working on:<br>Designing scalable data pipelines and backend services for nonprofit and healthcare platforms using Python, dbt, Airflow, and FastAPI.<br><br>🔹 I'm looking to collaborate on:<br>Open-source projects in data engineering, healthcare interoperability (OMOP/FHIR), and impact-driven platforms that use real-world data for good.<br><br>🔹 I'm looking for help with:<br>Optimizing CI/CD for data workflows, advanced data validation frameworks, and integrating AI models with production pipelines.<br><br>🔹 I'm currently learning:<br>Kubernetes, Apache Iceberg, and efficient cost-optimization techniques for big data processing in AWS/GCP.<br><br>🔹 Ask me about:<br>
+🔹 I'm currently working on:<br>Designing scalable data pipelines and backend services for nonprofit and healthcare platforms using Python, dbt, Airflow, and FastAPI.<br><br>🔹 I'm looking to collaborate on:<br>Open-source projects in data engineering, healthcare interoperability (OMOP/FHIR), and impact-driven platforms that use real-world data for good.<br><br>🔹 I'm looking for help with:<br>Optimizing CI/CD for data workflows, advanced data validation frameworks, and integrating AI models with production pipelines.<br><br>🔹 I'm currently learning:<br>Kubernetes, Apache Iceberg, and efficient cost-optimization techniques for big data processing in AWS/GCP.<br><br>
 
+🔹 Ask me about:<br>
 - dbt, Airflow, and modern data stacks
-- Building healthcare pipelines (OMOP, HIPAA/GDPR compliance)
+- Building healthcare pipelines (OMOP, HIPAA compliance)
 - FastAPI + PostgreSQL backend design
-- Scaling Python-based ETL in cloud environments<br><br>🔹 Fun fact:<br>I once built a data pipeline that transformed 10M+ clinical records into OMOP CDM—and celebrated by writing my first dbt macro and bingeing a Kaggle notebook series!
+- Scaling Python-based ETL in cloud environments<br><br>
+- Data Privacy for Financial Institutions (GDPR aware)
+
+🔹 Fun fact:<br>I once built a data pipeline that transformed 10M+ clinical records into OMOP CDM—and celebrated by writing my first dbt macro and bingeing a Kaggle notebook series!
 
 
 ## 🌐 Socials:
