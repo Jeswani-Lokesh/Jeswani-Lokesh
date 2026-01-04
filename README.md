@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - dbt, Airflow, and modern data stacks
 - Building healthcare pipelines (OMOP, HIPAA compliance)
 - FastAPI + PostgreSQL backend design
-- Scaling Python-based ETL in cloud environments<br><br>
-- Data Privacy for Financial Institutions (GDPR aware)
+- Scaling Python-based ETL in cloud environments
+- Data Privacy for Financial Institutions (GDPR aware)<br><br>
 
 🔹 Fun fact:<br>I once built a data pipeline that transformed 10M+ clinical records into OMOP CDM—and celebrated by writing my first dbt macro and bingeing a Kaggle notebook series!
 
